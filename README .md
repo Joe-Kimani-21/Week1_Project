@@ -1,11 +1,3 @@
-# readme-practice
-
-
-|        |    |    |    |    |
-|--------|----|----|----|----|
-|        |    |    |    |    |
-|        |    |    |    |    |
-
 # Table of content
 [1.Description](#Description)
 [2.Challenges and upgrades](#Challenges-and-upgrades)

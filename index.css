@@ -85,7 +85,7 @@ body {
 .v2_28 {
   width: 238px;
   height: 202px;
-  background: url("../images/v2_28.png");
+  background: url("./images/v2_28.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -102,7 +102,7 @@ body {
 .v2_21 {
   width: 894px;
   height: 100%;
-  background: url("../images/v2_21.png");
+  background: url("./images/v2_21.png");
   opacity: 1;
   position: absolute;
   top: 9px;
@@ -156,7 +156,7 @@ body {
 }
 .v1_10 {
   width: 216px;
-  color: url("../images/v1_10.png");
+  color: url("./images/v1_10.png");
   position: absolute;
   top: 23px;
   left: 198px;
@@ -181,7 +181,7 @@ body {
 .v303_6 {
   width: 111px;
   height: 131px;
-  background: url("../images/v303_6.png");
+  background: url("./images/v303_6.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -223,7 +223,7 @@ body {
 }
 .v309_95 {
   width: 406px;
-  color: url("../images/v309_95.png");
+  color: url("./images/v309_95.png");
   position: absolute;
   top: 3400px;
   left: 76px;
@@ -331,7 +331,7 @@ body {
 }
 .v307_71 {
   width: 189px;
-  color: url("../images/v307_71.png");
+  color: url("./images/v307_71.png");
   position: absolute;
   top: 1920px;
   left: 770px;
@@ -347,7 +347,7 @@ body {
 .v303_8 {
   width: 88px;
   height: 68px;
-  background: url("../images/v303_8.png");
+  background: url("./images/v303_8.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -420,7 +420,7 @@ body {
 .v304_39 {
   width: 570px;
   height: 817px;
-  background: url("../images/v304_39.png");
+  background: url("./images/v304_39.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -433,7 +433,7 @@ body {
 .v307_45 {
   width: 208px;
   height: 170px;
-  background: url("../images/v307_45.png");
+  background: url("./images/v307_45.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -446,7 +446,7 @@ body {
 .v308_94 {
   width: 500px;
   height: 400px;
-  background: url("../images/v308_94.png");
+  background: url("./images/v308_94.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -459,7 +459,7 @@ body {
 .v308_95 {
   width: 500px;
   height: 500px;
-  background: url("../images/v308_95.png");
+  background: url("./images/v308_95.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -502,7 +502,7 @@ body {
 }
 .v309_100 {
   width: 146px;
-  background: url("../images/v309_100.png");
+  background: url("./images/v309_100.png");
   opacity: 1;
   position: absolute;
   top: 3796px;
@@ -513,7 +513,7 @@ body {
 .v1_19 {
   width: 230px;
   height: 68px;
-  background: url("../images/v1_19.png");
+  background: url("./images/v1_19.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -530,7 +530,7 @@ body {
 .v6_43 {
   width: 211px;
   height: 68px;
-  background: url("../images/v6_43.png");
+  background: url("./images/v6_43.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -546,7 +546,7 @@ body {
 }
 .v310_105 {
   width: 216px;
-  color: url("../images/v310_105.png");
+  color: url("./images/v310_105.png");
   position: absolute;
   top: 4903px;
   left: 153px;
@@ -559,7 +559,7 @@ body {
 .v310_106 {
   width: 111px;
   height: 131px;
-  background: url("../images/v310_106.png");
+  background: url("./images/v310_106.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -668,7 +668,7 @@ body {
 .v307_43 {
   width: 280px;
   height: 226px;
-  background: url("../images/v307_43.png");
+  background: url("./images/v307_43.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -681,7 +681,7 @@ body {
 .v307_44 {
   width: 222px;
   height: 169px;
-  background: url("../images/v307_44.png");
+  background: url("./images/v307_44.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -928,7 +928,7 @@ body {
 .v307_75 {
   width: 80px;
   height: 65px;
-  background: url(../images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) center center / cover no-repeat;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -951,7 +951,7 @@ body {
 .v307_77 {
   width: 80px;
   height: 65px;
-  background: url(../images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) center center / cover no-repeat;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -974,7 +974,7 @@ body {
 .v307_79 {
   width: 80px;
   height: 65px;
-  background: url(../images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) center center / cover no-repeat;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -997,7 +997,7 @@ body {
 .v307_81 {
   width: 80px;
   height: 65px;
-  background: url(../images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) center center / cover no-repeat;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -1020,7 +1020,7 @@ body {
 .v307_83 {
   width: 80px;
   height: 65px;
-  background: url(../images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) center center / cover no-repeat;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -1043,7 +1043,7 @@ body {
 .v307_85 {
   width: 80px;
   height: 65px;
-  background: url(../images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) center center / cover no-repeat;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -1054,7 +1054,7 @@ body {
 .v307_87 {
   width: 226px;
   height: 209px;
-  background: url("../images/v307_87.png");
+  background: url("./images/v307_87.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1067,7 +1067,7 @@ body {
 .v307_88 {
   width: 226px;
   height: 209px;
-  background: url("../images/v307_88.png");
+  background: url("./images/v307_88.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1080,7 +1080,7 @@ body {
 .v307_89 {
   width: 226px;
   height: 209px;
-  background: url("../images/v307_89.png");
+  background: url("./images/v307_89.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1093,7 +1093,7 @@ body {
 .v307_90 {
   width: 226px;
   height: 209px;
-  background: url("../images/v307_90.png");
+  background: url("./images/v307_90.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1106,7 +1106,7 @@ body {
 .v307_91 {
   width: 226px;
   height: 209px;
-  background: url("../images/v307_91.png");
+  background: url("./images/v307_91.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1119,7 +1119,7 @@ body {
 .v307_92 {
   width: 226px;
   height: 209px;
-  background: url("../images/v307_92.png");
+  background: url("./images/v307_92.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1132,7 +1132,7 @@ body {
 .v309_103 {
   width: 316px;
   height: 651px;
-  background: url("../images/v309_103.png");
+  background: url("./images/v309_103.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1145,7 +1145,7 @@ body {
 .v309_104 {
   width: 326px;
   height: 654px;
-  background: url("../images/v309_104.png");
+  background: url("./images/v309_104.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

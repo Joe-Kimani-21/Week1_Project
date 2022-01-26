@@ -963,10 +963,15 @@ body {
   opacity: 1;
   text-align: center;
 }
+.v307_75,.v307_79,.v307_81,.v307_85,.v307_77,.v307_83{
+  width: 50px;
+  height: 50px;
+}
 .v307_75 {
-  width: 80px;
-  height: 65px;
   background: url(./images/v303_8.png) center center / cover no-repeat;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -987,9 +992,10 @@ body {
   text-align: center;
 }
 .v307_77 {
-  width: 80px;
-  height: 65px;
   background: url(./images/v303_8.png) center center / cover no-repeat;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -1010,9 +1016,10 @@ body {
   text-align: center;
 }
 .v307_79 {
-  width: 80px;
-  height: 65px;
   background: url(./images/v303_8.png) center center / cover no-repeat;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -1033,9 +1040,10 @@ body {
   text-align: center;
 }
 .v307_81 {
-  width: 80px;
-  height: 65px;
   background: url(./images/v303_8.png) center center / cover no-repeat;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -1056,9 +1064,10 @@ body {
   text-align: center;
 }
 .v307_83 {
-  width: 80px;
-  height: 65px;
   background: url(./images/v303_8.png) center center / cover no-repeat;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;
@@ -1079,9 +1088,10 @@ body {
   text-align: center;
 }
 .v307_85 {
-  width: 80px;
-  height: 65px;
   background: url(./images/v303_8.png) center center / cover no-repeat;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   background-color: #E1EBE6;

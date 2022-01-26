@@ -395,7 +395,8 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v303_14 {
+.v303_14 a{
+  text-decoration: none;
   width: 135px;
   color: rgba(0,0,0,1);
   position: absolute;

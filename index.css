@@ -120,7 +120,8 @@ body {
   left: 0px;
   overflow: hidden;
 }*/
-.v1_12 {
+.v1_12 a{
+  text-decoration: none;
   width: 75px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -132,7 +133,8 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_13 {
+.v1_13 a{
+  text-decoration: none;
   width: 111px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -144,7 +146,8 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v303_5 {
+.v303_5 a{
+  text-decoration: none;
   width: 112px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -168,7 +171,8 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_11 {
+.v1_11 a{
+  text-decoration: none;
   width: 70px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -597,7 +601,8 @@ body {
   left: 23px;
   overflow: hidden;
 }
-.v310_107 {
+.v310_107 a{
+  text-decoration: none;
   width: 309px;
   font-weight: bold;
   color: rgba(0,0,0,1);
@@ -609,7 +614,8 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v312_115 {
+.v312_115 a{
+  text-decoration: none;
   width: 309px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -621,7 +627,8 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v312_116 {
+.v312_116 a{
+  text-decoration: none;
   width: 309px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -633,7 +640,8 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v312_117 {
+.v312_117 a{
+  text-decoration: none;
   width: 309px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -645,7 +653,8 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v312_118 {
+.v312_118 a{
+  text-decoration: none;
   width: 309px;
   color: rgba(0,0,0,1);
   position: absolute;

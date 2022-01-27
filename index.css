@@ -123,6 +123,7 @@ body {
     text-align: center;
     font-family: Poppins;
     font-size: 29px;
+    font-weight: bold;
   }
 /*.v32_4 {
   width: 100%;
@@ -1206,7 +1207,7 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 4043px;
+  top: 3940px;
   left: 705px;
   overflow: hidden;
 }
@@ -1219,7 +1220,7 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 4120px;
+  top: 4070px;
   left: 1200px;
   overflow: hidden;
 }

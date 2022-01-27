@@ -110,6 +110,20 @@ body {
   top: 9px;
   left: 685px;
 }
+.v2_22{
+    border-bottom: 50px solid rgba(247,92,30,1);
+    border-left: 70px solid transparent;
+    border-right: 35px solid transparent;
+    height: 0;
+    width: 190px;
+    top: 2072px;
+    left: 235px;;
+    position: absolute;
+    transform: rotate(35deg);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 29px;
+  }
 /*.v32_4 {
   width: 100%;
   height: 114px;
@@ -341,6 +355,12 @@ body {
   border-top-left-radius: 33px;
   border-top-right-radius: 33px;
   border-bottom-left-radius: 33px;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 15px;
+  color: black;
 }
 .name {
   color: #fff;
@@ -681,7 +701,7 @@ body {
 }
 .v310_110 {
   width: 246px;
-  color: rgba(0,0,0,1);
+  color: rgb(110, 107, 107);
   position: absolute;
   top: 4972px;
   left: 1010px;
@@ -968,7 +988,7 @@ body {
   height: 50px;
 }
 .v307_75 {
-  background: url(./images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) ;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -992,7 +1012,7 @@ body {
   text-align: center;
 }
 .v307_77 {
-  background: url(./images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) ;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1016,7 +1036,7 @@ body {
   text-align: center;
 }
 .v307_79 {
-  background: url(./images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) ;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1040,7 +1060,7 @@ body {
   text-align: center;
 }
 .v307_81 {
-  background: url(./images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) ;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1064,7 +1084,7 @@ body {
   text-align: center;
 }
 .v307_83 {
-  background: url(./images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) ;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1088,7 +1108,7 @@ body {
   text-align: center;
 }
 .v307_85 {
-  background: url(./images/v303_8.png) center center / cover no-repeat;
+  background: url(./images/v303_8.png) ;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

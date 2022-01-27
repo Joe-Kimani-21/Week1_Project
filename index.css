@@ -552,14 +552,14 @@ body {
   width: 146px;
   background: url("./images/v309_100.png");
   position: absolute;
-  width: 340px;
-  height: 150px;
+  width: 200px;
+  height: 85px;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 3717px;
+  top: 3750px;
   left: 265px;
   overflow: hidden;
  }
